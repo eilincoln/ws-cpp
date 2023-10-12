@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697067593 source:c:\ws-cpp\saida-de-dados-03\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
